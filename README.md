@@ -16,7 +16,7 @@ var m1 = "Bienvenidos a mi página";
 
 var nombre = prompt("¿Cual es tu jugador favorito?:");
 
-alert(" + nombre + ", "¿Es tu jugador favorito? !Que bien!, Que disfrutes de la página.");
+style="text-decoration: none; color: black;">Historia del Fútbol</a></h3>
 
         
 </script>
