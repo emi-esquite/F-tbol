@@ -3,10 +3,7 @@
 <title>Fútbol</title>
 </head>
 <body>
-
-
-
-        
+ 
 <script languaje="javascript" type="text/javascript">
 var nombre = prompt("Por favor, ingresa tu nombre:");
 
