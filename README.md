@@ -14,17 +14,7 @@ var m1 = "Bienvenidos a mi página";
         var mensaje2 = m2.toUpperCase();
         alert(mensaje2);
 
-
-var nombre = prompt("Queremos saber tu jugador favorito, ¡Escribelo!:");
-
-
-if (nombre) {
-  
-    alert("Que bueno es saber que " + nombre + " es tu jugador favorito" "Bienvenido a nuestra página.");
-} else {
-  
-    alert("No ingresaste un nombre.");
-}
+var nombre = prompt("Por favor, ingresa tu nombre:");
 
 
 
