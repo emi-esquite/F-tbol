@@ -16,6 +16,14 @@ var m1 = "Bienvenidos a mi página";
 
 var nombre = prompt("¿Cual es tu jugador favorito?:");
 
+<p style="text-align: left; font-family: 'Century Gothic'; font-size: 16px; color: black;">
+        <input type="checkbox"> Leo Messi<br>
+        <input type="checkbox"> Cristiano Ronaldo<br>
+        <input type="checkbox"> Pelé<br>
+        <input type="checkbox"> Zinedine Zidane<br>
+        <input type="checkbox"> Ronaldo Nazário<br>
+    </p>
+        
 <div style="text-align: right;"> 
 <img src="pelota1.jpg" alt="Mi imagen alineada a la derecha" width=100 height>
 </div>
