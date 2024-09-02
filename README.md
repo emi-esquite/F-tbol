@@ -16,8 +16,9 @@ var m1 = "Bienvenidos a mi página";
 
 var nombre = prompt("¿Cual es tu jugador favorito?:");
 
-style="text-decoration: none; color: black;">Historia del Fútbol</a></h3>
-
+<div style="text-align: right;"> 
+<img src="pelota1.jpg" alt="Mi imagen alineada a la derecha" width=100 height>
+</div>
         
 </script>
 </head>
