@@ -18,12 +18,13 @@ var nombre = prompt("Ingresa el nombre de tu jugador favorito: ");
 
 if (nombre) {
    
-   
-}
-else {
+    alert("¡Hola, " + nombre + "! Bienvenido a mi página.");
+        
+}else {
 
     alert("No ingresaste un nombre.");
 }
+
 
         
 </script>
